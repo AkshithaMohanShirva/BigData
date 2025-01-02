@@ -1,17 +1,23 @@
 Overview
+
+
 In this phase of the project, the role of Fleet Manager for Az National Trucking (ANT), a fictitious
 national trucking corporation based in California, is assumed. The primary responsibility entails
 ensuring compliance among all fleet drivers with the corporation's regulations, thereby mitigating
 insurance risks associated with factors such as speeding, unsafe following, lane departure, and other
 hazardous driving practices. The pertinent details regarding the company's profile and contextual
 scenario are outlined below.
+
+
+
 Company Overview
 Established a decade ago, ANT comprises 400 employees, predominantly long-distance truck drivers.
 The core operation of ANT involves offering long-haul trucking services for various general and nonspecialized cargo types, excluding hazardous materials (HAZMAT), across the western United States.
-ANT holds licensure and approval for transportation services in 14 states. The organizational structure
-and essential details are elaborated as follows:
-Organizational Structure: ANT operates as a privately held entity, characterized by the following
-breakdown:
+
+
+ANT holds licensure and approval for transportation services in 14 states. The organizational structure and essential details are elaborated as follows:
+
+Organizational Structure: ANT operates as a privately held entity, characterized by the following breakdown:
 • Total Employees: 400
 • Staff: 40
 • Mechanics: 15
@@ -35,6 +41,7 @@ Hub Locations:
 Fleet Composition:
 • Trucks Owned by ANT: 300
 • Individually Contracted: 10
+
 Compliance Guidelines: ANT adheres to compliance and risk management practices as dictated by
 the Federal Motor Carrier Safety Administration (FMCSA) regulations for the trucking industry,
 meeting or surpassing the minimum requirements specified in relevant sections. Additionally,
@@ -42,11 +49,10 @@ compliance extends to the Department of Transportation regulations and pertinent
 laws and regulations. ANT retains the prerogative to impose more stringent rules concerning certain
 risk factors, as warranted by telematics data or business exigencies, within the bounds of legal
 permissibility.
+
 Risk Thresholds
 Risk mitigation thresholds are established based on regulatory mandates, business imperatives, and
 telematics data observations. The organization's current risk factors encompass various parameters, 
-University of Dallas at Texas
-6346 – Data Science and Big Data Analytics
 including but not limited to:
 • Mileage
 • Speed
